@@ -1,0 +1,14 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+CSBIS,CSBISIGNAN,Cosenza,Avios. Cosenza,1000,39°31'34"N,16°13'48"E,Antonio Orefice,NULL
+CSSIB,CSSIBARI,Cosenza,Dragons Fly,500,39°44'7"N,16°27'30"E,Luigi Caruso - Salvatore Cosenza,NULL
+CSSIP,CSSIBARIPA,Cosenza,Avios. Sibari Fly,850,39°45'25"N,16°26'18"E,Adelmo Varca,NULL
+KRBUC,KRBUCCHI,Crotone,Ali Val di Neto,270,39°11'4"N,17°6'22"E,Fedele Cornicelli,NULL
+KRCOT,KRCOTRONEI,Crotone,Avios. Franca,600,39°11'20"N,16°40'15"E,G. Baffa,NULL
+LIBC,KR_CAPORIZ,Crotone,Aerop. Crotone S.Anna,2000,38°59'46"N,17°4'45"E,Aeroporto S.Anna spa / AeC,119.100
+LICA,CZ_LAMEZIA,Catanzaro,Aerop. Lamezia Terme,2400,38°54'28"N,16°14'30"E,SACAL spa,"118,800 (App) - 125,900 (Twr)"
+LICK,CSSCALEA,Cosenza,Avios. SCALEA,1500,39°46'50"N,15°49'0"E,Ortolani Alberto,128.450
+LICR,RC_RCALABR,Reggio Calabria,Aerop. Reggio Calabria,1700-2000,38°4'17"N,15°39'13"E,SOGAS spa / AeC,118.250
+RCCON,RCCONDOFUR,Reggio Calabria,38° N Fly Zone,360,37°56'45"N,15°53'20"E,Mario - Antonio - Pasquale,NULL
+RCNIC,RCNICOTERA,Reggio Calabria,Campo Volo Beppe Rascaglia,450,38°30'56"N,15°56'32"E,David Lo Sardo,NULL
+VVROM,VVROMBIOLO,Vibo Valentia,Avios. Ali Calabria,500,38°37'11"N,15°57'4"E,Giuseppe Prontoriero,NULL
+VVZUN,VVZUNGRI,Vibo Valentia,Il Grifo,450,38°38'15"N,15°56'52"E,Gianfranco Manfrida,NULL

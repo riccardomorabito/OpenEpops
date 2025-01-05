@@ -1,0 +1,33 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+CACAS,CACASTIADA,Cagliari,Avios. Villaggio Antica Sardegna,800,39°16'7"N,9°32'18"E,Paolo Contini,NULL
+CADEC,CADECIMOPU,Cagliari,Avios. Xptz,600,39°21'39"N,8°52'2"E,Mariano Podda,NULL
+CAGES,CAGESICO,Cagliari,Argiolas Noas,300,39°37'33"N,9°6'12"E,Antonio Melis,NULL
+CAMAR,CAMARACALA,Cagliari,Maracalagonis,4250,39°16'40"N,9°14'55"E,Fabio Ligas,NULL
+CASER,CASERDIANA,Cagliari,Avios. del Parteolla,750,39°24'0"N,9°8'15"E,Alberto Frau,146.400
+CASET,CASETTIMOP,Cagliari,Ass. Sportiva Amici dell'Aria,435,39°19'44"N,9°8'47"E,NULL,NULL
+CASGA,CASGAVINO,Cagliari,Castello di Moneale,200,39°35'0"N,8°46'20"E,NULL,NULL
+CASIL,CASILIQUA,Cagliari,Avios. La tana del volo,500,39°16'9"N,8°46'18"E,Federico Piano,NULL
+CASLO,CASLORENZO,Cagliari,Avios. Avielsar - PRIVATA,730,39°29'48"N,9°36'46"E,Mura Marcello,NULL
+CAVAL,CAVALLERMO,Cagliari,Campo Volo Vallermosa,400,39°21'35"N,8°47'52"E,Veniero Carta,NULL
+LIEA,SS_ALGHERO,Sassari,Aerop. Alghero Fertilia,3000,40°37'50"N,8°17'20"E,SOGEAAL,118.850
+LIED,AM_DECIMOM,Cagliari,Aerop. MILITARE Decimomannu,"2610 - 2990",39°21'15"N,8°58'21"E,NULL,120.600
+LIEE,CA_ELMAS,Cagliari,Aerop. Cagliari Elmas,2800,39°14'47"N,9°3'27"E,"SOGAER srl / AeC",120.600
+LIEO,SS_OLBIA,Sassari,Aerop. Olbia Costa Smeralda,2445,40°53'53"N,9°31'5"E,"GEASAR spa / AeC",122.100
+LIER,OR_ORISTAN,Oristano,Aerop. Oristano Fenosu,1200,39°53'42"N,8°38'18"E,"Sogeaor spa / AeC",122.600
+LIET,NU_TORTOLI,Nuoro,Aerop. Tortolì Arbatax,1180,39°55'5"N,9°41'0"E,GEARTO spa,119.500
+NUDOR,NUDORGALI,Nuoro,Avios. Dorgali (loc. Biriddo),650,40°20'52"N,9°32'53"E,"Salvatore Fronteddu - Giorgio Pes",NULL
+NUORS,NUOROSEI,Nuoro,Campo volo Linnarta,330,40°24'40"N,9°42'22"E,Salvatore Manca,NULL
+OGGIR,OGGIRASOLE,Ogliastra,Avios. Girasole Vola,420,39°57'24"N,9°38'43"E,Andrea Useli Bacchitta,130.000
+OGPER,OGPERDASDE,Ogliastra,Avios. Aliquirra,700,39°40'43"N,9°27'43"E,Marco Corongiu,NULL
+ORSOL,ORSOLARUSA,Oristano,A.S. Ulcor,400,39°58'42"N,8°40'42"E,NULL,NULL
+ORTFO,ORTRESNURA,Oristano,Avios. Torre Foghe,520,40°11'0"N,8°28'10"E,Salvatore Ganga,NULL
+OTBUD,OTBUDDUSO,OlbiaTempio,Avios. Campo di Volo Loelle,430,40°34'25"N,9°19'40"E,"Fore Giammario / Antonello",NULL
+OTOLB,OTOLBIA,OlbiaTempio,La Smeraldina,360,41°3'26"N,9°26'0"E,Massimo Papitto,NULL
+OTSTE,OTSTEODORO,OlbiaTempio,Avios. San Teodoro,500,40°48'0"N,9°39'30"E,Salvatore Biddau,NULL
+SSARD,SSARDARA,Sassari,Air Ardara,440,40°37'34"N,8°52'6"E,Gavino Bagella,NULL
+SSMOR,SSMORES,Sassari,Ciondolo Number One,"400 - 200",40°33'40"N,8°49'10"E,Raffaele Meloni,NULL
+SSPLA,SSPLATAMON,Sassari,Campo di Volo Platamona,580,40°48'48"N,8°28'15"E,Tomaso Solinas,NULL
+SSPOZ,SSPOZZOMAG,Sassari,Il Volo,500,40°25'19"N,8°41'12"E,Mariano Cazzari,NULL
+SSSTI,SSSTINTINO,Sassari,Avios. Stintino,725,40°52'59"N,8°15'17"E,Gianfranco Germanà,NULL
+SSTHI,SSTHIESI,Sassari,Aeroclub l'Aviatore,500,40°32'5"N,8°36'10"E,NULL,NULL
+SSVDO,SSVALLEDOR,Sassari,S.Pietro,300,40°55'49"N,8°48'48"E,NULL,NULL

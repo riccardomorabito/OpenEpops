@@ -1,0 +1,42 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+ARBOR,ARSGIUSTIN,Arezzo,Il Borro,900,43°32'27"N,11°42'9"E,Flavio,NULL
+ARCVP,ARCAVRIGLI,Arezzo,Valle al Pero,600,43°31'50"N,11°28'21"E,"Efisi Stefano, Bassi Angelo",NULL  
+ARMON,ARMONTECCH,Arezzo,Av. Montecchio-Podere S.Apollonia,820,43°17'43"N,11°54'26"E,Budini Cattai,NULL
+FIBSL,FIBSLORENZ,Firenze,Avios. Collina,740,43°59'23"N,11°23'28"E,Sig. Gasparrini,NULL
+FIECN,FIEMPOLI,Firenze,Ulm Empoli,330,43°43'30"N,10°59'0"E,NULL,NULL
+FIVIC,FIVICCHIO,Firenze,Avios. Renzo Storai,580,43°57'57"N,11°27'29"E,Mirko Battesini - Cristian Giorgetti,NULL
+GRALA,GRPUNTALA,Grosseto,Avios. Punta Ala,880,42°50'30"N,10°49'20"E,Tafi Maurizio - Cottini Alvaro,NULL
+GRCAP,GRCAPALBIO,Grosseto,Selva Nera,500,42°24'24"N,11°23'41"E,NULL,NULL
+GRGRO,GRBUCACCE,Grosseto,Terra del sole,400,42°46'33"N,11°9'29"E,NULL,NULL 
+GRMAR,GRMANCIANO,Grosseto,Flying Buttero,280,42°31'7"N,11°19'17"E,Ivan,NULL
+GRMSM,GRMASSAMAR,Grosseto,Campo di volo Vivoli,230,42°59'34"N,10°48'22"E,Rodolfo Ranieri,NULL
+GRSCA,GRSCARLINO,Grosseto,Ali Scarlino,650,42°54'35"N,10°49'0"E,Claudio La Nave,NULL
+LIAT,PIVALDERAC,Pisa,Avios. Valdera Capannoli,675,43°35'31"N,10°41'44"E,Aero Club di Pisa - Avios. Valdera,NULL
+LICMA,LICAMPVENT,Livorno,Delta Club Ibis,270,43°1'23"N,10°36'40"E,Nannelli Luciano,NULL
+LICMP,LICAMPCORN,Livorno,Val di Cornia,230,42°59'39"N,10°36'0"E,NULL,NULL
+LICOL,LICOLLESAL,Livorno,Campo volo Il Gruccione,450,43°36'25"N,10°25'20"E,Fabio Sarsale,NULL
+LIGRE,LIGRECCIAN,Livorno,Avios. Sport Aeronautici Livorno,700,43°37'43"N,10°28'58"E,R. Barsacchi,NULL
+LILQ,MS_CINQUAL,Massa,Aerop. Massa Cinquale,720,43°59'7"N,10°8'35"E,AeC,NULL
+LIQB,AR_AREZZO,Arezzo,Aerop. di Arezzo,660,43°27'19"N,11°50'50"E,AeC,NULL
+LIQF,ARSSEPOLCR,Arezzo,Avios. Palazzolo Avio,875,43°33'42"N,12°9'9"E,Pichi Graziani,NULL
+LIQG,LICECINA,Livorno,Avios. Porta della Maremma,1000,43°17'6"N,10°31'25"E,Turini Enzo,NULL
+LIQL,LU_TASSIGN,Lucca,Aerop. Lucca Tassignano,910,43°49'39"N,10°34'43"E,S.A. Lucca Tassignano srl / AeC,NULL
+LIQQ,ARSERRISTO,Arezzo,Avios. Centro di Volo Serristori,500-600,43°19'54"N,11°51'31"E,Franco Bentenuti,NULL  
+LIQS,SI_AMPUGN,Siena,Aerop. Siena Ampugnano,1390,43°15'29"N,11°15'20"E,CAS spa / AeC,NULL
+LIRJ,LI_IS-ELBA,Livorno,Aerop. Marina di Campo,1025,42°45'40"N,10°14'23"E,Alatoscana spa,NULL
+LIRP,PI_SGIUSTO,Pisa,Aerop. Pisa S.Giusto,"2790 - 2990",43°40'59"N,10°23'40"E,SAT spa,NULL  
+LIRQ,FI_FIRENZE,Firenze,Aerop. Firenze Peretola,1717,43°48'29"N,11°12'11"E,ADF spa / AeC,NULL
+LIRS,GR_GROSSET,Grosseto,Aerop. di Grosseto,3000,42°45'39"N,11°4'15"E,SEAM spa / AeC,NULL
+LISVC,LISVINCGAB,Livorno,Avios. Il Gabbiano,700,43°3'1"N,10°33'2"E,Andrea Roncareggi - Fausto Nannini,NULL
+LISVN,LISVINCSKY,Livorno,Sky Sports Europe,550,43°5'49"N,10°33'40"E,Massimo Costa,NULL  
+LUCAP,LUCAPANNOR,Lucca,Delta Team Lucca,400,43°47'5"N,10°36'2"E,Marco Betti - Giuseppe Bertolozzi,NULL
+LUMSR,LUMASSAROS,Lucca,Condor,"350/400",43°52'7"N,10°18'7"E,Paolo Zerini,NULL
+PIPRA,PIPRATELLO,Pisa,Avios. Pratello,1000,43°33'15"N,10°45'9"E,Paolo Rosati,NULL
+PISGT,PILEPRATA,Pisa,Le Prata,200,43°44'47"N,10°24'19"E,Giancarlo Nardi,NULL
+PISMN,PISMINIATO,Pisa,Campo di volo Tuscany Flight,400,43°41'43"N,10°48'19"E,Panchetti Denio,NULL
+PTQUA,PTQUARRATA,Pistoia,Avios. Il Pinguino,430,43°52'18"N,10°56'41"E,Mimmo Buoncristiani,NULL
+SICAB,CASTELNBER,Siena,Campo Volo Grillo,300,43°19'32"N,11°33'45"E,Massimo,NULL
+SICHI,SICHIUSDIN,Siena,Avio Club Chiusdino,650,43°11'29"N,11°8'37"E,Sergio Di Fazio,NULL
+SICHS,SICHIUSISC,Siena,Chiusi,600,42°58'21"N,11°56'37"E,Luca Mancini,NULL
+SIMEN,SICVDELSAM,Siena,Avios. Mensanello,700,43°22'11"N,11°7'30"E,Filippo Roncucci,NULL
+SIVDC,SISINALUNG,Siena,Avioclub Valdichiana,860,43°13'0"N,11°49'10"E,Alberto Damiano,NULL

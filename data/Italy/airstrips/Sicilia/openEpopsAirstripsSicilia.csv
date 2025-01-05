@@ -1,0 +1,37 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+AGFAV,AGFAVARA,Agrigento,Avios. Agrigento Airfield,500,37°14'50"N,13°39'17"E,Pasquale Scibetta,NULL
+AGMEN,AGMENFI,Agrigento,Avios. Terranova,500,37°34'36"N,12°56'39"E,Nino Palminteri,NULL
+AGSCI,AGSCIACCA,Agrigento,AvioSciacca,570,37°31'41"N,13°0'13"E,Claudio D'Angelo,NULL
+CLCAL,CLCALTANIS,Caltanissetta,Avios. Caltanissetta,300,37°26'15"N,14°1'48"E,NULL,NULL
+CLGEL,CLGELACAG,Caltanissetta,Club Aeronautico Gela,550,37°6'49"N,14°11'24"E,NULL,NULL
+CLGLA,CLGELAAIR,Caltanissetta,Avios. Airone,400,37°6'50"N,14°12'52"E,"Pino Leonardo / Stefano Settecasi",144.350
+CLSDF,CLSERRADIF,Caltanissetta,Avio Club Centro Sicilia,400,37°27'5"N,13°55'25"E,Fonti Walter,NULL
+CTCAL,CTCALTAGIR,Catania,Bosco di Mezzo,400,37°9'7"N,14°35'58"E,NULL,NULL
+CTFFD,CTCALATABI,Catania,Avios. Calatabiano,500,37°48'0"N,15°13'41"E,"Giuseppe Coco / Triavio",130.000
+CTGMM,CTGRAMMICH,Catania,Avioclub Caltagirone,200,37°11'32"N,14°36'47"E,NULL,NULL
+CTMAL,CTMALETTO,Catania,Avios. Maletto Fly,300,37°50'43"N,14°52'11"E,Bernardis Eros,NULL
+CTMIN,CTMINEO,Catania,Campo volo del Camemi,340,37°15'48"N,14°37'36"E,C.Sinatra,NULL
+CTRAM,CTRAMACCA,Catania,Avios. Ramacca,600,37°23'28"N,14°37'13"E,Placenti Arcangelo,NULL
+ENAID,ENAIDONE,Enna,Campo Volo Cugno,450,37°25'56"N,14°36'55"E,Franco Colombo,NULL
+ENPIE,ENPIETRAPE,Enna,Campo Volo Marano,450,37°23'11"N,14°8'36"E,Salvatore Milazzo,NULL
+LICC,CT_FON-ROS,Catania,Aerop. Catania Fontanarossa,2550,37°27'56"N,15°3'50"E,"SAC spa / AeC",118.700
+LICD,AG_LAMPED,Agrigento,Aerop. di Lampedusa,1800,35°29'45"N,12°37'6"E,ENAC,123.500
+LICG,TP_PANTELL,Trapani,Aerop. di Pantelleria,"1220 - 1670",36°48'49"N,11°57'58"E,"Sogest Pantelleria spa",118.450
+LICJ,PA_P-RAISI,Palermo,Aerop. Palermo Punta Raisi,"2070 - 3270",38°10'53"N,13°5'58"E,GESAP spa,119.050
+LICP,PA_BOCCADF,Palermo,Aerop. Palermo Boccadifalco,1220,38°6'43"N,13°18'51"E,AeC,122.600
+LICT,TP_BIRGI,Trapani,Aerop. Trapani Birgi,2700,37°54'42"N,12°29'11"E,Airgest spa,119.700
+LICZ,AM_CATANIA,Catania,Aerop. MILITARE Sigonella,2400,37°24'0"N,14°55'0"E,NULL,118.050
+MECAR,MECARONIA,Messina,Avios. Minotaurus e Medusa,840,38°2'50"N,14°32'23"E,Arch.Gaetano Di Giorgio,NULL
+MECOR,MECORLANDO,Messina,Volo Club Capo d'Orlando,360,38°7'30"N,14°42'30"E,Giuseppe Alessandro,130.000
+MESAL,MESALESSIO,Messina,Ala Jonica,300,37°56'6"N,15°19'9"E,NULL,NULL
+PATER,PATERMINIM,Palermo,Volo Club Albatros,400,37°58'21"N,13°46'21"E,R.Pascale,NULL
+RGCOM,RGCOMISO,Ragusa,Avios. Sorvoliamo Onlus,500,37°0'30"N,14°35'42"E,Biagio Picarella,NULL
+RGGIU,RAGUSA,Ragusa,Avios. Eremo della Giubilana,700,36°51'39"N,14°37'38"E,Salvatore Mancini,131.050
+RGMDM,RGMAMODICA,Ragusa,Avios. Oasi dei Re,720,36°43'16"N,14°46'22"E,Raffaele Viscovo,NULL
+RGMRG,RGMARAGUSA,Ragusa,Campo volo Elpifly,330,36°48'36"N,14°32'35"E,Elpifly,NULL
+SRAVO,SRAVOLA,Siracusa,Avios. Avola,630,36°56'44"N,15°10'8"E,Renato Palmieri,128.45
+SRPCH,SRPACHINO,Siracusa,Pachino Fly Dream,460,36°43'36"N,15°1'58"E,"Piero Calvo / Stefano Bagli","130.000 / 43 can. 20"
+SRSIR,SRSIRACUSA,Siracusa,Avios. Avio Club Siracusa,400,37°1'48"N,15°14'40"E,Presidente Giovanni Piatti,128.450
+TPBOV,TPSALEMI,Trapani,Avios. Bovarella,550,37°47'41"N,12°50'50"E,Angelo Calistro,NULL
+TPCDM,TPCAMPOBEL,Trapani,Alicusa,300,37°36'47"N,12°41'45"E,NULL,NULL
+TPCVE,TPCVETRANO,Trapani,Ass.Volo Sportivo Castelvetrano,860,37°40'43"N,12°46'30"E,NULL,NULL

@@ -1,0 +1,17 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+AQAQU,AQAQUILA,L'Aquila,Avios. L'Aquila,650,42°18'3"N,13°31'0"E,NULL,130.000
+AQCAR,AQCARSOLI,L'Aquila,Avios. Il Pratone,500,42°5'50"N,13°2'30"E,Gian Carlo Scattone,NULL
+AQCEL,AQCELANO,L'Aquila,Avios. Celano,830,42°3'6"N,13°33'26"E,Franco Lozzi,NULL
+AQCOR,AQCORFINIO,L'Aquila,Avios. Corfinio Airfield,630,42°6'35"N,13°50'30"E,Riccardo Di Bartolomeo,NULL
+AQROC,AQROCCAPIA,L'Aquila,Campo Volo 5 miglia,1000,41°52'45"N,14°0'36"E,Antonio Milano,NULL
+CHVAS,CHVASTO,Chieti,Associazione Sportiva Volo Vasto,300,42°9'20"N,14°41'55"E,Luigi Ciancaglini - Pasquale De Michele,NULL
+LIAP,AQ_PRETURO,L'Aquila,Aerop. L'Aquila Preturo,1410,42°22'46"N,13°18'34"E,Soocietà di Gestione Xpress s.r.l.,122.500
+LIBP,PE_PESCARA,Pescara,Aerop. Pescara,2420,42°26'12"N,14°11'14"E,SAGA spa / AeC,"120.050 (App) - 118.450(Twr)"
+PEALA,PEALANNO,Pescara,Avios. Alanno,410,42°18'55"N,14°0'4"E,Domenico Gaudieri / Raffaele Fabilli,NULL
+PEELI,PEELICE,Pescara,Aeroclub Elice,350,42°29'26"N,13°59'46"E,Giorgio Soccio,NULL
+PEPEN,PEPENNE,Pescara,Colle Maggio,300,42°30'9"N,13°56'24"E,NULL,NULL
+TECIV,TECIVITELL,Teramo,Villa Selva Airpark,450,42°47'56"N,13°45'6"E,NULL,NULL
+TEMSA,TEMOSCIANO,Teramo,Costa del Monte,200,42°44'0"N,13°53'29"E,Mariano Cardelli,NULL
+TENOT,TENOTARESC,Teramo,Campo di volo Pica,400,42°41'50"N,13°55'6"E,Luciano De Ascaniis,NULL
+TESOM,TESANTOMER,Teramo,Aircountry,270,42°48'22"N,13°47'8"E,Dezi Pierino,NULL
+TEVAL,TEVALVIBRA,Teramo,Val Vibrata,500,42°48'33"N,13°50'54"E,Dezi Remo,NULL

@@ -1,0 +1,6 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+MTPIS,MTPISTICCV,Matera,Campo volo Pisticci,450,40°23'50"N,16°38'10"E,Antonio Lofranco /Tiberio Rucci,NULL
+MTPOL,MTPOLICORO,Matera,Policoro - Luciano D'Adamo,300,40°10'30"N,16°39'43"E,Luciano D'Adamo,NULL
+PZGRU,PZGRUMENTO,Potenza,Avios. di Grumento,1110,40°16'20"N,15°54'53"E,Dr. Cunetta Nando,123.450
+PZLAV,PZLAVELLO,Potenza,Avios. Falcone,750 /200,41°6'12"N,15°52'24"E,Angelo Bruno,NULL
+PZPAN,PZPANTANO,Potenza,Avios. Pantano,600,40°33'30"N,15°45'29"E,Luigi Mancino,NULL

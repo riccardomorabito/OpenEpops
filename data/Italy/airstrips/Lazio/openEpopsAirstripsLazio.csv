@@ -1,0 +1,58 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+AQAQU,AQAQUILA,L'Aquila,Avios. L'Aquila,650,42°18'3"N,13°31'0"E,NULL,130.000
+FRAGN,FRANAGNI,Frosinone,Delta Club Città dei Papi,280,41°43'4"N,13°5'57"E,NULL,NULL
+FRALV,FRALVITO,Frosinone,Avios. Amici del Volo,380,41°40'59"N,13°44'53"E,Palmiro Facchini,NULL
+FRCCC,FRCECCANO2,Frosinone,Campo Di Volo Giovanni Zaccini,300,41°33'53"N,13°20'40"E,NULL,NULL
+FRCEC,FRCECCANO,Frosinone,Avios. Pegaso Flying Club,600/100,41°32'28"N,13°22'17"E,Zaccini Antonio,NULL
+FRFEG,FRFERENTGR,Frosinone,Il Grifo,300,41°40'14"N,13°16'30"E,Gino Collalti,NULL
+FRFER,FRFERENTAL,Frosinone,Avios. Alicocco,400,41°39'18"N,13°13'35"E,Dell'Orco Antonio,NULL
+FRGIU,FRGIULIANO,Frosinone,UFO,320,41°30'43"N,13°16'59"E,Paolo Di Girolamo,NULL
+LIAQ,FR_AQUINO,Frosinone,Aerop. di Aquino,950,41°29'8"N,13°43'8"E,AeC RealLazio,126.900
+LIQN,RI_RIETI,Rieti,Aerop. di Rieti,830,42°25'34"N,12°51'1"E,Ufficio traffico ENAC / AeC,123.050
+LIRA,RM_CIAMPIN,Roma,Aerop. Roma Ciampino,2200,41°47'55"N,12°35'42"E,Aeroporti di Roma,120.500
+LIRE,AM_PRATICA,Roma,Aerop. MILITARE Pratica di Mare,2540,41°39'35"N,12°26'43"E,NULL,122.100
+LIRF,RM_FIUMIC,Roma,Aerop. Roma Fiumicino,3300 / 3900,41°48'0"N,12°14'20"E,Aeroporti di Roma spa,118.700
+LIRG,AM_GUIDON,Roma,Aerop. MILITARE Guidonia,1200/1470,41°59'46"N,12°44'5"E,AMI,122.200
+LIRH,AM_FROSIN,Frosinone,Aerop. MILITARE Frosinone,1430,41°38'42"N,13°17'56"E,AMI / AeC,119.350
+LIRL,AM_LATINA,Latina,Aerop. MILITARE Latina,1700,41°32'44"N,12°54'33"E,AMI / AeC,119.150
+LIRU,RM_URBE,Roma,Aerop. Roma Urbe,1080,41°57'5"N,12°30'4"E,ENAC / AeC,123.800
+LIRV,VT_VITERBO,Viterbo,Aerop. di Viterbo,1300-1000-590,42°25'49"N,12°3'51"E,A.M.I. / AeC,127.150
+LTAPR,LTAPRILIA,Latina,Avios. Fly Center,600,41°32'50"N,12°40'15"E,Marco D'Ignazi,NULL
+LTFON,LTFONDI,Latina,Ass. Volo Amiclae,400,41°18'53"N,13°20'50"E,Umberto Pacella,NULL
+LTLAT,LTLATINASM,Latina,Avios. Condor,360,41°24'54"N,12°58'46"E,Antonio Evangelista,NULL
+LTPNF,LTPONTINFR,Latina,Avio Pontinia Club,500,41°22'30"N,13°10'29"E,Di Girolamo Crescenzo,NULL
+LTPNT,LTPONTINEA,Latina,Pontinia Eagles,400,41°22'44"N,13°8'16"E,Enrico,NULL
+LTPON,LTPONTINCA,Latina,Avios. Pegaso Club 2000,600,41°21'33"N,13°9'0"E,Riccardo Nardoni,NULL
+LTSAB,LTSABAUDIA,Latina,Avios. Sabaudia,650,41°20'1"N,13°1'17"E,Sig. Dapit,NULL
+LTSEZ,LTSEZZESCA,Latina,Avios. Divinangelo,600,41°28'19"N,13°1'25"E,Riccioni,NULL
+RIVAL,RIVALLESAN,Rieti,Avios. Rieti Vallesanta,780 / 535,42°25'40"N,12°48'23"E,Diego Volpi,NULL
+RMANG,RMANGUILSA,Roma,Avios. Santo Stefano,480,42°4'25"N,12°16'5"E,Mauro Marsilii,NULL
+RMART,RMARTENA,Roma,Avios. Artena,700,41°40'23"N,12°50'44"E,Carlo Prosperi,NULL
+RMCER,RMCERVETER,Roma,Sangermano-ACLI,450,41°59'40"N,12°8'23"E,Fabio Sangermano,NULL
+RMCMP,RMCELSETTA,Roma,Avios. Avio Celsetta,600,42°7'18"N,12°21'38"E,Massimo Florenzi,NULL
+RMFDP,RMFONTEPAP,Roma,Avios. Mantoni,570,42°3'8"N,12°33'59"E,Mantoni Piero,NULL
+RMFIA,RMFIANOROM,Roma,Avios. Fiano Romano,650,42°8'41"N,12°38'0"E,Fabrizio Paolocci,123.000
+RMFRM,RMFIANOTUC,Roma,Avios. TUCANO,700 -700,42°7'57"N,12°37'34"E,Silvio Bussinello,NULL
+RMGAL,RMGALLICAN,Roma,Avios. Aviocaipoli,800,41°53'15"N,12°47'4"E,Goliardo Di Vecchio,NULL
+RMGDC,RMCORCOLLE,Roma,Avios. Giardini di Corcolle,530,41°54'3"N,12°44'49"E,Claudio Galliani,NULL
+RMLAD,RMLADISPOL,Roma,Aerdomus,250,41°56'31"N,12°8'25"E,Maurizio Rossi,147.500
+RMMON,RMMONTELIB,Roma,Campo volo Fly Sabina,550,42°7'0"N,12°42'29"E,Andrea Antonini,130.000
+RMMTF,RMMTOLFA,Roma,Avios. Monti della Tolfa,560,42°1'0"N,11°59'0"E,Gianni Cecilia,NULL
+RMNET,RMNETTARMA,Roma,Avios. ARMA -,500,41°27'52"N,12°44'48"E,Marchetto Adriano,NULL
+RMNTT,RMNETTUNO,Roma,Ali Nettuno,410,41°30'22"N,12°42'12"E,Franco Moretti,NULL
+RMOSA,RMMCOMPATR,Roma,Avios. Fly Roma,570,41°53'13"N,12°43'0"E,Italo Marini / Alessia Nicolini,NULL
+RMVIT,SVITTORINO,Roma,Avio Roma Est,600,41°54'48"N,12°46'16"E,ASD campo volo Castello di Corcolle,NULL
+RMVMT,RMVALMONTO,Roma,Campo Volo Valmontone,200,41°45'55"N,12°51'54"E,Latino,147.200
+VTCCA,VTCIVITACA,Viterbo,Colibrì,460,42°18'3"N,12°22'47"E,Gabbi Giuseppe,NULL
+VTCOR,VTCORCHIAN,Viterbo,Avios. S.Bruna - Ass. Amici del Volo,350,42°23'0"N,12°20'38"E,Carlo Caporossi,NULL
+VTGAL,VTGALLESE,Viterbo,Avios. Gallese S. Lucia,400,42°21'30"N,12°25'40"E,Az. Ag. Marini Balestra,NULL
+VTMDC,VTMONTALTO,Viterbo,Easy Flyte Maremma,400,42°22'0"N,11°39'0"E,Pino Petrucci,NULL
+VTNEP,VTNEPI,Viterbo,Avios. Carocci,460,42°14'50"N,12°18'40"E,Carlo Grisogoni,NULL
+VTSOR,VTSORIANO,Viterbo,Avios. Alisoriano,400,42°25'59"N,12°17'27"E,Vergili Daniele,NULL
+VTSUT,VTSUTRI,Viterbo,Avios. Vallicella,600,42°13'2"N,12°14'42"E,Gianluca De Angelis,NULL
+VTTAA,VTTARQUINI,Viterbo,Delta Top,400,42°13'27"N,11°47'12"E,Marcello Fiorani,NULL
+VTTAB,VTTARQUISG,Viterbo,Campo Volo San Giorgio,400,42°11'35"N,11°43'35"E,Massimiliano Coppola,130.000
+VTTES,VTTESSENAN,Viterbo,Francesco Cantelmo,1000,42°29'19"N,11°47'55"E,NULL,NULL
+VTTUL,VTTUSCANSL,Viterbo,Avios. San Lazzaro,500,42°24'41"N,11°53'55"E,Dimitri Bruno,127.000
+VTTUP,VTTUSCANPP,Viterbo,Poggio Primavera,300,42°22'0"N,11°47'46"E,NULL,NULL
+VTVEJ,VTALITUSCI,Viterbo,Avios. Alituscia,700,42°13'45"N,12°7'15"E,Ugo Nunzio Neri,NULL

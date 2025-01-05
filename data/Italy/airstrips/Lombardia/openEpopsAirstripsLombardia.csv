@@ -1,0 +1,75 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+BGMAS,BGCARAVAGG,Bergamo,Careas,500,45°30'42"N,9°40'16"E,Nodari Gaetano,NULL
+BGPAL,BGPALOSCO,Bergamo,Campo volo Palosco,300,45°36'0"N,9°49'10"E,Aldo Fedrizzi,NULL
+BSART,BSARTOGNE,Brescia,Campo volo di Vallecamonica,450,45°51'15"N,10°8'45"E,Gianni Bonafini,NULL
+BSBAM,BSBAGNOLOM,Brescia,Gigi tre Osei,600,45°24'0"N,10°9'52"E,NULL,NULL
+BSBED,BSBEDIZZOL,Brescia,Avios. Bedizzole,685,45°31'8"N,10°27'0"E,Pozzani L. - Pasini F.,NULL
+BSCAR,BSCARZAGO,Brescia,Avios. Carzago Riviera,450,45°30'54"N,10°27'40"E,Luciano Sorlini,030-601033
+BSCEN,BSPANIZZE,Brescia,Le Panizze,600,45°25'0"N,10°33'28"E,NULL,335-5378373
+BSCIZ,BSCIZZAGO,Brescia,Avios. Santa Lucia,650,45°29'10"N,9°57'20"E,Luigi Chittò,130.500
+BSCLV,BSCALVISAN,Brescia,Campo volo La Zappaglia,520,45°19'36"N,10°22'41"E,Flavio Taino - Ruggero Tononi,"348 5620854 / 348-7443901"
+BSLON,BSLONATO,Brescia,Avios. Eroma Country House,600,45°23'36"N,10°33'48"E,Bruno Contrini,030 9129930
+BSNUV,BSNUVOLERA,Brescia,Campo Volo Corry's,400/200,45°31'10"N,10°22'48"E,Corrado Orazi,"030-6897239 / 328-6723580"
+BSOFL,BSOFFLAGA,Brescia,Blue Devil Center,320,45°23'32"N,10°8'10"E,Mario Bonazza,"030-979238 / 335-5480433"
+BSSCR,BSSCARPIZZ,Brescia,Campo Volo Scarpizzolo,400,45°22'39"N,10°2'20"E,Domenico Tedoldi,030-9970128
+BSTOR,BSPRADELLE,Brescia,Avios. Pradelle,700 / 350,45°29'30"N,10°7'20"E,Marchini Renato,"030-2150421 / 349-3776973"
+CRAZZ,CRAZZANELL,Cremona,Campo Volo Azzanello (Sanel),300,45°17'38"N,9°55'14"E,NULL,131.000
+CRDOV,CRDOVERA,Cremona,Avios. Turbo Fly,400,45°22'50"N,9°32'42"E,NULL,119.300
+CRTOR,CRTORLINO,Cremona,Punto Volo Torlino,600,45°26'18"N,9°36'26"E,NULL,"0373-90616 / 348-3818842"
+LCMON,LCMONTEMAR,Lecco,Avios. Kong,300,45°45'45"N,9°26'42"E,Marco Bonaiti,0341-630506
+LILB,CO_ALZATEB,Como,Aerop. Alzate Brianza,600,45°46'10"N,9°9'40"E,AVL Alzate,123.500
+LILC,VA_CALCINP,Varese,Aerop. Calcinate del Pesce,600,45°48'33"N,8°46'6"E,ACAO,128.450
+LILG,VA_VERGIAT,Varese,Aerop. Vergiate,800,45°42'45"N,8°41'58"E,Agusta spa,119.775
+LILH,PV_VOGHERA,Pavia,Aerop. Voghera Rivanazzano,1000,44°57'36"N,9°0'30"E,Air Company srl / AeC,123.000
+LILN,VA_VENEGON,Varese,Aerop. Varese Venegono,1420,45°44'26"N,8°53'13"E,Aermacchi / AeC,128.550
+LILO,SOCAIOLO,Sondrio,Avios. Caiolo,1050,46°9'8"N,9°47'35"E,Aero Club Sondrio,"0342-355203 / 348-1525793"
+LILR,CR_MIGLIAR,Cremona,Aerop. Cremona Migliaro,650,45°10'0"N,10°0'8"E,NULL,119.650
+LILV,BG_VALBREM,Bergamo,Aerop. Valbrembo,700,45°43'12"N,9°35'38"E,AeC,122.600
+LILY,CO_IDROSCL,Como,Idroscalo Como,900,45°48'50"N,9°4'12"E,AeC,121.000
+LIMB,MI_BRESSO,Milano,Aerop. Bresso,1080,45°32'26"N,9°12'8"E,AeC,"02-6101625 / 66500197"
+LIMC,VA_MALPENS,Varese,Aerop. Milano Malpensa,3920,45°38'1"N,8°43'51"E,SEA spa,119.000
+LIME,BG_ORIOSER,Bergamo,"Aerop. Bergamo Orio al Serio,750 - 2940",NULL,45°40'6"N,9°42'2"E,"SACBO spa / AeC",125.875
+LIML,MI_LINATE,Milano,"Aerop. Milano Linate,600 / 2440",NULL,45°26'55"N,9°16'43"E,SEA spa,118.100
+LIPL,AM_GHEDI,Brescia,Aerop. MILITARE Ghedi,2990,45°25'56"N,10°16'4"E,NULL,119.400
+LIPO,BS_MONTICH,Brescia,Aerop. Brescia Montichiari,2990,45°25'44"N,10°19'50"E,"Valerio Catullo spa / Aec",119.400
+LOCOL,LOCORNEGLI,Lodi,Avios. Cornegliano Laudense,400,45°17'18"N,9°29'31"E,NULL,NULL
+LOMAS,LOMASSALEN,Lodi,Avios. Massalengo,700,45°16'23"N,9°28'57"E,Baggi,130.050
+LOSFI,LOSFIORANO,Lodi,S.Fiorano Wings,250,45°7'14"N,9°42'30"E,Manuela Cigolini,"0377-53131"
+LOVIG,LOVIGAROLO,Lodi,Avios. di Vigarolo,650,45°13'3"N,9°28'0"E,A/C Lodi,"119.350 / 338-7091184 / 339-3541204" 
+MIABB,MIABBIATEG,Milano,Campo Volo dei Navigli,450,45°24'53"N,8°53'42"E,Massimo Peruzzi,342-3682787
+MICAS,MICASOREZZ,Milano,Air Folies Casorezzo,280,45°31'55"N,8°54'0"E,Umberto Bettanin,"347-9004287 / 02-9010727"
+MICIS,MICISLIANO,Milano,Volo Club Milano,350,45°26'58"N,8°59'54"E,Bedini Daniele,"02-427376 / 338-9106487"
+MICOG,MICOGLIATE,Milano,Aviosup. Campo volo Cogliate,560,45°38'25"N,9°3'57"E,Stefano Favaro,348-2894281
+MICSS,MIBAIALUPO,Milano,Avios. Baialupo,450,45°33'16"N,9°30'10"E,A.S.C.V.U.,"0363-361332-3 / 339-4556659"
+MIROS,MIROSANGEL,Milano,Avios. Rosangeles,500,45°21'36"N,9°1'0"E,Emilio Baietta,"349-6760031 / 02-90848854"
+MISEN,MIGROANE,Milano,Campo Volo Groane (Cesare Bianchi),400,45°33'35"N,9°6'20"E,Luca Colombo,335-7305530
+MITRE,MITREZZOAD,Milano,Le Tartarughe Volanti,450,45°36'35"N,9°29'12"E,Claudio Bonzi - Davide Giacci,"339-5843009 / 393-1751745"
+MNASO,MNASOLA,Mantova,Diavoli Rossi,280,45°13'13"N,10°28'42"E,Renato Azzini,"339-4055602 / 348-8401614"
+MNBIG,MNBIGARELL,Mantova,Campo volo Alberello,300,45°10'20"N,10°55'44"E,Marzio Bondavalli,130.025
+MNBUS,MNBUSCOLDO,Mantova,Saccani,500,45°6'44"N,10°42'39"E,Giuseppe Saccani,0376-48019
+MNCAM,MNCAMANTOV,Mantova,Cà Mantovane,400,45°14'18"N,10°53'20"E,Badalotti Tiziano,339-4735452
+MNCER,MNCERESARA,Mantova,Avios. Ceresara,530,45°15'53"N,10°35'0"E,Giovanni Marchi,339-3166870
+MNFEL,MNFELONICA,Mantova,Felonica,500,44°58'0"N,11°21'15"E,NULL,NULL
+MNGRA,MNGRAZIE,Mantova,Cremona,350,45°8'8"N,10°41'40"E,Cremona Antonio,329-8623337
+MNMAR,MNMARMIROL,Mantova,Marengo - Agrit. Corte Carnevale,300,45°14'52"N,10°43'34"E,Andrea Pachera,"0376-295715 / 328-2866047"
+MNMED,MNMEDOLE,Mantova,Medole,500,45°20'21"N,10°29'6"E,NULL,030-969385
+MNMNN,MNSGIORGIO,Mantova,Mantova Nord,300,45°10'18"N,10°51'27"E,Claudio Spiritelli,0376-411063
+MNNOS,MNNOSEDOLE,Mantova,Battistello,330,45°6'32"N,10°59'36"E,Dino Battistello,"0376-664029 / 339-2094796"
+MNPEL,MNPELLIZZA,Mantova,Campo Volo Pellizzario,300,45°17'34"N,10°26'48"E,Gian Carlo Frizzi,0376-770410
+MNSAB,MNSABBIONE,Mantova,Cianpioppo,350,45°0'54"N,10°30'37"E,Umberto Gandolfi,339-3531612
+MNSSV,MNCURTATON,Mantova,Avios. città di Curtatone - S.Silvestro,600,45°6'0"N,10°45'16"E,Sbarbada GianPaolo,"0376-478188 / 0376-365336"
+MNSUZ,MNSUZZARA,Mantova,Club La Fenice,250 - 450,45°0'15"N,10°43'6"E,Mirko e Giancarlo,"338-3161356 / 335-6698239"
+PVCSA,PVCASTAGOG,Pavia,Avios. La Ceriella,770,45°13'0"N,8°40'0"E,Ferdinando Giardini,335-209975
+PVMBI,PVMEZZANAB,Pavia,Avios. Club Astra,900,45°4'3"N,8°50'21"E,Club Astra,"0384-88097 / 337-342286"  
+PVROB,PVROBECCOP,Pavia,Arbuschi,320,45°3'0"N,9°9'45"E,Arbuschi,335-8237422
+PVSPO,PVSPESSAPO,Pavia,Avios. Speziana,540,45°7'57"N,9°21'36"E,Corbellini,118.050
+PVVGB,PVVIGEVBAT,Pavia,Avios. F.Natale-F.Battistoni,450,45°20'5"N,8°49'29"E,Gualtiero Natale,335-6372305
+PVVGP,PVVIGEVPIC,Pavia,Vigevano - Piccolini,460,45°19'43"N,8°47'49"E,NULL,NULL
+PVVGV,PVVIGEVLEO,Pavia,Avios. Leonardo da Vinci,600,45°17'18"N,8°48'0"E,Gustavo Saurin,348-0202115
+PVVLO,PVLOMELLIN,Pavia,Campo volo l'Airone,320,45°9'20"N,8°39'39"E,Capato Doriano,"384-797829 / 335-6889831"
+PVZER,PVZERBOLO,Pavia,Campo Volo Luciano Borgonovi,400,45°11'11"N,9°2'42"E,Angelo Trombin,0382-400275
+SOSAM,SOSAMOLACO,Sondrio,A.V.L.U.,400,46°14'10"N,9°25'52"E,Vitaliano Canclini,"0341-940549 / 335-6774942"
+VACAR,VACARONNOP,Varese,Paramotor Club,250,45°36'25"N,9°1'58"E,Edoardo Serra,347-6883577
+VACMO,VACASSANOM,Varese,Az. Agr. Oasi,400,45°41'45"N,8°49'37"E,Renato Conti,0331-217718
+VACUV,VACUVIO,Varese,Avios. Mascioni,520,45°54'0"N,8°43'22"E,NULL,NULL
+VAORI,VAORIGGIO,Varese,Avios. Airone,360,45°35'25"N,9°0'3"E,Giovanni Cerimede,NULL

@@ -1,0 +1,29 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+GOMOS,GOMOSSA,Gorizia,Campo Volo Isonzo,500,45°55'24"N,13°32'30"E,Simone Turus,NULL
+LIDK,AM_CASARSA,Udine,Aerop. MILITARE Casarsa,640,45°57'11"N,12°49'8"E,NULL,122.700
+LIKH,UDOSOPPO,Udine,Avios. Osoppo,600,46°14'9"N,13°4'24"E,Ivan Visintini,123.000
+LIPA,AM_AVIANO,Pordenone,Aerop. MILITARE Aviano,2600,46°1'55"N,12°35'47"E,NULL,120.125
+LIPD,UD_CAMPOFR,Udine,Aerop. Campoformido,730,46°1'53"N,13°11'13"E,Aero Club Friulano,119.050
+LIPG,GO_GORIZIA,Gorizia,Aerop. di Gorizia,700-1100,45°54'22"N,13°35'58"E,AeC,119.850
+LIPI,AM_RIVOLTO,Udine,Aerop. MILITARE Rivolto,2990,45°58'43"N,13°3'0"E,NULL,NULL
+LIPQ,GO_RONCHIL,Gorizia,Aerop. Ronchi dei Legionari,3000,45°49'36"N,13°28'20"E,F.V.G. spa / AeC,"119.150 (App) - 130.200 (Twr)"
+PNCDV,PNCORDOVAD,Pordenone,Cordovado,350,45°50'12"N,12°53'35"E,Armando Sut,NULL
+PNCOM,PNCOMINA,Pordenone,Avios. Aerocampo La Comina,1100/1200,45°59'31"N,12°39'17"E,Riccardo Furlan,128.450
+PNPAS,PNPASIANO,Pordenone,Campo Volo Pasiano,340,45°49'55"N,12°35'35"E,Modanese Gabriele,NULL
+PNPRA,PNPRAVISDO,Pordenone,Avios. Pravisdomini,600,45°49'27"N,12°41'7"E,Timodeo Pezzutti,NULL
+PNSEQ,PNSEQUALS,Pordenone,Agrit. Sasso d'Oro,320,46°10'53"N,12°49'21"E,Patrizia - Renato Marescutti,NULL
+PNSES,PNSESTOREG,Pordenone,Pajaro Loco,300,45°51'53"N,12°47'46"E,Stefano Casonato,NULL
+TSPRO,TSPROSECCO,Trieste,Aerocampo Prosecco,400,45°42'12"N,13°45'35"E,Vincenzo Spina - Paolo Fichera,NULL
+UDBER,UDBERTIOLO,Udine,Ass. Sp. Al Ranch,240,45°55'15"N,13°2'3"E,Erminio Morandini,NULL
+UDCER,UDCERCIVEN,Udine,Volo libero Carnia,340,46°31'27"N,13°0'18"E,Marzio Lazzara,NULL
+UDCIV,UDCIVIDALE,Udine,Cividale,450,46°3'21"N,13°25'42"E,Walter Mugherli,NULL
+UDCOD,UDCODROIPO,Udine,Al Casale volo Friuli,550,45°59'5"N,12°55'39"E,Sandro,NULL
+UDENE,UDENEMONZO,Udine,Avios. Zampieri,550,46°24'15"N,12°53'5"E,Fabio Barazzutti,122.000
+UDFLY,UDFLYSYNTE,Udine,Flysyntesis,700,45°58'5"N,13°14'5"E,Flysyntesis,NULL
+UDMOR,UDMORTEGLI,Udine,Chiasellis,340,45°56'42"N,13°12'30"E,NULL,NULL
+UDPAV,UDPAVIA,Udine,SG Fly Evolution S.r.l,400,45°59'1"N,13°18'33"E,Cacin e Sardeo,NULL
+UDPNC,UDPIANCADA,Udine,Avios. Piancada,850,45°45'47"N,13°4'30"E,NULL,NULL
+UDPOV,UDPOVOLETT,Udine,Campo Volo Always,310,46°8'0"N,13°16'42"E,Paschini Mauro,NULL
+UDPRE,UDPREMARIA,Udine,Avios. San Mauro - Fly & Joy,700,46°4'5"N,13°22'8"E,Agostino Aimaro,121.900
+UDSVT,UDNOGAREDO,Udine,Nogaredo,270,45°54'50"N,13°22'18"E,Marco Di Giusto,NULL
+UDTRI,UDTRIVIGNA,Udine,Avios. Ultralight,600,45°55'50"N,13°21'32"E,Romano Cesca,NULL

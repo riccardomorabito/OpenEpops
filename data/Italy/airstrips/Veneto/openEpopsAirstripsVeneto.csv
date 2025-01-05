@@ -1,0 +1,71 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+BLLON,BLLONGARON,Belluno,Avios. Malcolm - Fiera,210,46°16'30"N,12°18'15"E,Giorgio Piccin,NULL
+BLSGS,BLSGIUSTIN,Belluno,Fant Air Club,380,46°5'6"N,12°4'8"E,Pistoia Franco,NULL
+BLTAM,BLTAMBRE,Belluno,Pianon,240,46°8'30"N,12°25'49"E,Chittaro,NULL
+BLTRI,BLTRICHIAN,Belluno,Avios. S. Felice,300,46°4'50"N,12°7'30"E,Piccin Giorgio,NULL
+LIDA,VI_ASIAGO,Vicenza,Aerop. di Asiago,1100,45°53'13"N,11°31'0"E,Aerop. di Asiago spa,122.600
+LIDB,BL_BELLUNO,Belluno,Aerop. di Belluno,812,46°10'0"N,12°14'53"E,Presidente Aeroclub Belluno,119.650
+LIDH,VI_THIENE,Vicenza,Aerop. di Thiene,1200,45°40'30"N,11°29'49"E,Aeroporto di Thiene srl / AeC,121.200
+LIDL,VR_LEGNAGO,Verona,Aerop. di Legnago,600,45°7'57"N,11°17'33"E,Assoc. Volo Legnago,119.725
+LIDW,TVSALGARED,Treviso,Avios. G.Carrer,750,45°42'0"N,12°32'35"E,Narder Luciano,118.000
+LIKE,VEALICAORL,Venezia,Avios. Ali Caorle,830,45°36'43"N,12°48'53"E,Mauro Di Biaggio,118.125
+LIPH,TV_TREVISO,Treviso,Aerop. Treviso S.Angelo,2420,45°39'3"N,12°11'52"E,AerTre spa / AeC,118.700
+LIPN,VR_BOSCOM,Verona,Aerop. Boscomantico,1010,45°28'26"N,10°55'41"E,Ministero Trasporti / AeC,125.250
+LIPS,AM_ISTRANA,Treviso,Aerop. MILITARE Istrana,3000,45°41'4"N,12°5'14"E,NULL
+LIPU,PD_PADOVA,Padova,Aerop. di Padova,450,45°23'43"N,11°50'54"E,Aerop. Civile Padova spa / AeC,123.250
+LIPV,VE_LIDO,Venezia,Aerop. S. Nicolò Venezia lido,944,45°25'42"N,12°23'17"E,ENAC / AeC,118.525
+LIPX,VR_VILLAFR,Verona,Aerop. Verona Villafranca,3065,45°23'43"N,10°53'15"E,Aerop. Catullo spa,118.650
+LIPZ,VE_TESSERA,Venezia,Aerop. Venezia Tessera,2780,45°30'16"N,12°21'7"E,SAVE spa,120.200
+PDBAG,PDBAGNOLI,Padova,Dominio di Bagnoli,1180,45°11'2"N,11°51'29"E,NULL
+PDCER,PDCERVARES,Padova,Base Bravo,350,45°23'34"N,11°41'32"E,Fabio Ziglio,NULL
+PDCMP,PDCMSPIERO,Padova,Avios. Ali sul Graticolato,650,45°33'30"N,11°58'26"E,Giuseppe Carpin,NULL
+PDCSM,PDCMSMARTI,Padova,Campo volo Le Risare,700,45°34'24"N,11°50'54"E,Roberto Farina Busetto,NULL
+PDGAL,PDGALLIERA,Padova,Campo di Volo Ali Venete,360,45°40'0"N,11°48'30"E,Jonny Baggio,NULL
+PDMAS,PDMASERAPD,Padova,Campo di volo Padova Sud,180,45°19'27"N,11°52'21"E,Maurizio Ruzzon,NULL
+PDMNS,PDMONSELIC,Padova,Da Domenico,450,45°14'2"N,11°47'50"E,Domenico,NULL
+PDMON,PDMONTAGNA,Padova,Avios. Baschirotto - AeC Montagnana,1000,45°14'42"N,11°25'25"E,V.Frison - R.Ferrarin,118.975
+PDPDS,PDCODEVIGO,Padova,Campo di Volo La Fattoria,400,45°17'30"N,12°4'33"E,Fiorin Adriano,NULL
+PDPOZ,PDPOZZONOV,Padova,Avios. Colli Euganei,550,45°12'9"N,11°47'40"E,Claudio Bertazzo,NULL
+ROAPO,ROARQUAPOL,Rovigo,Corte Bariani,300,45°2'1"N,11°43'26"E,Mario Bariani,NULL
+ROCAN,ROCANEGRA,Rovigo,Borletti,660,45°4'57"N,12°9'20"E,Stefano Borletti,NULL
+ROFIESSOUM,Rovigo,Stella,NULL,500,44°57'4"N,11°37'36"E,Claudio / Alessandro,NULL
+ROLUS,ROLUSIA,Rovigo,Il Pioniero,450,45°5'2"N,11°39'42"E,Davì Pietro,NULL
+ROROV,ROROVIGO,Rovigo,Avios. Luciano Baldi,700,45°2'0"N,11°49'0"E,Casarotto Luciano,NULL
+TVASO,TVASOLO,Treviso,Campo di Volo Asolo Flight,360,45°45'30"N,11°53'46"E,Franco Colbalchini,NULL
+TVBOS,TVVIDOR,Treviso,Avios. S. Giuseppe,395,45°51'23"N,12°4'10"E,Vergerio Reghini co.Luigi,133.450
+TVCAE,TVCAERANOM,Treviso,San Marco Volo,360,45°46'18"N,11°59'48"E,Poloniato Luigi,NULL
+TVCAS,TVCASALESI,Treviso,Casale,350,45°35'51"N,12°18'27"E,Soldà G.Maria,NULL
+TVCEN,TVCENDON,Treviso,La Canonica,500,45°38'4"N,12°20'25"E,Andrea,NULL
+TVCOD,TVCODOGNE,Treviso,Campo volo Butterfly,430,45°51'12"N,12°27'20"E,Claudio Pagotto,NULL
+TVGRA,TVSPRESGDP,Treviso,Grave di Papadopoli,700,45°47'0"N,12°18'49"E,Paolo Zanardo,NULL
+TVMBL,TVMONTEBEL,Treviso,Montebelluna,400,45°44'54"N,12°3'26"E,Egidio,NULL
+TVNER,TVNERVESA,Treviso,Jonathan - F. Baracca,1100,45°50'20"N,12°11'38"E,G.Carlo Zanardo,NULL
+TVQUA,TVFARRASOL,Treviso,Quartier del Piave,300,45°53'36"N,12°8'5"E,Roberto Micheletto,123.375
+TVSDM,TVMONTELLO,Treviso,Campo volo "Ali del Montello",280,45°45'42"N,12°9'48"E,Pegorer Sileno / Schiavon P.,NULL
+TVSPR,TVSPRESCVA,Treviso,Campo di Volo Albatros,380,45°46'10"N,12°14'43"E,Walter Callegari,NULL
+TVVTV,TVVITVENET,Treviso,Campo di volo Dream Fly,220,45°55'50"N,12°15'28"E,De Stefani Arturo,NULL
+VEBIB,VEBIBIONE,Venezia,Avios. Bibione Agriturismo Toniatti,1000,45°40'10"N,13°2'21"E,Roberto Toniatti / Vinicio Ridolfi,NULL
+VECAO,VECAORLEMK,Venezia,Mazarack,400,45°38'22"N,12°56'37"E,Rudy o Dennis,NULL
+VECAP,VECAPOSILE,Venezia,Avios. Caposile,450,45°33'30"N,12°34'36"E,Kustatscher Erich,118.850
+VECAV,VECAVARZER,Venezia,Campo volo Cavaliere d'Italia,300,45°9'50"N,12°6'23"E,Francesco Palumbo,NULL
+VECGO,VECAMPOLON,Venezia,Club Volo Pegaso,400,45°19'2"N,12°3'21"E,Rampin Giulio,NULL
+VECHI,VECHIOGGIA,Venezia,Aquilotti,330,45°8'17"N,12°14'2"E,NULL
+VECON,VECONA,Venezia,Campo Volo Sturaro - Monsole,700,45°11'47"N,12°4'8"E,Pier Guido Sturaro,118.825
+VEFOS,VEFOSSO,Venezia,Sandon,500,45°22'19"N,12°2'21"E,Mauro Beltrami,NULL
+VEPMA,VEPRAMAGGI,Venezia,Ass. Sp. Pravolo,350,45°48'56"N,12°45'8"E,Tessari Gaetano,NULL
+VESMS,VEVFARSETT,Venezia,Campo volo Villa Farsetti - A.S.D. Ala Salese,400,45°29'57"N,12°1'50"E,A.S.D. Ala Salese,130.100
+VESMT,VESMICHELE,Venezia,Fly Boys Village,600,45°40'20"N,12°58'30"E,Vittorio Canevarolo,NULL
+VESSL,VESSTINOLI,Venezia,Avios. Parco Livenza,650,45°44'12"N,12°42'20"E,Massimo Piovesan,118.625
+VIBAS,VIBASSANO,Vicenza,Avios. Alla Colombara,500,45°45'18"N,11°41'39"E,Silvio Sartori,NULL
+VICAS,VICASSOLA,Vicenza,Avios. di Cassola,430,45°44'32"N,11°48'26"E,Gaudenzio Cherubin,NULL
+VIDUE,VIDUEVILLE,Vicenza,Dueville,200,45°37'25"N,11°34'35"E,Silvano Povolaro,NULL
+VIMGA,VIMONTEGAL,Vicenza,Avios. Montegaldella,600,45°26'40"N,11°39'4"E,Luciano Sorlini,NULL
+VISAR,VISAREGO,Vicenza,Cà Quinta - La Favorita,400,45°26'1"N,11°23'6"E,Gianluigi Marzotto,NULL
+VRARC,VRARCOLE,Verona,Il Fantasma,300,45°21'36"N,11°17'40"E,Zanardo Renato,NULL
+VRCAS,VRCASALINO,Verona,Ass. Sp. Volo Leggero,500,45°15'40"N,11°11'39"E,NULL
+VRCOS,VRCOSTERMA,Verona,Costermano - Fabio Guerra,230,45°34'53"N,10°46'1"E,Fabio Guerra,NULL
+VRISO,VRCAMAGRE,Verona,Squadra Avvoltoi,350,45°14'42"N,11°0'20"E,Giorgio Munerati,NULL
+VRNOG,VRNOGARA,Verona,Avios. Nogara - Club Aquile Randagie,350,45°10'0"N,11°2'10"E,Moratti Gianni,135.600
+VRPAS,VRPASTRENG,Verona,Avios. Arcadia,200,45°30'12"N,10°47'20"E,Eligio Lonardi,NULL
+VRSGA,VRSGABRIEL,Verona,Aliveneta - Chiavegato,450,45°15'0"N,11°2'10"E,Sergio Chiavegato,NULL
+VRVAL,VRVALEGGIO,Verona,Centro volo ulm Scaligero,340,45°19'11"N,10°42'54"E,Burei Davide,NULL

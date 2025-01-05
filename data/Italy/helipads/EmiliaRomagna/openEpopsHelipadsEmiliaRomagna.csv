@@ -1,0 +1,20 @@
+Name,Altitude,Latitude,Longitude,Manager,BaseSize,Pavement,Shape
+AGIP - RAVENNA,1.0 m,N 44° 28' 37",E 12° 16' 18",ZUGARELLI Luciano,31 m,Calcestruzzo,Quadrata
+ANTONIO VACCARI Ospedale Maggiore di Bologna,40 m,N 44° 30' 23",E 11° 18' 44",ORLANDO Riccardo,23 m,Calcestruzzo,Quadrata
+Borgo Val di Taro,442.0 m,N 44° 29' 25",E 9° 45' 52",ANGELI Emanuele,20 m,Calcestruzzo,Circolare
+CLA 2,64.0 m,N 44° 49' 33",E 10° 11' 35",BOSELLI Mauro,21 m,Calcestruzzo,Quadrata
+COMUNE DI MONTESE,767.0 m,N 44° 16' 7",E 10° 56' 42",CRUSIZIO Claudio,20.00 m,Calcestruzzo,Circolare
+FIORANO,124.0 m,N 44° 32' 3",E 10° 51' 34",AMORETTI Cristiano,26 m,Calcestruzzo,Circolare
+FLYOZZANO,32.0 m,N 44° 28' 30",E 11° 32' 29",LANDI Stefano,20 m,Calcestruzzo,Quadrata
+LAGOSANTO,-1.0 m,N 44° 46' 26",E 12° 7' 21",CRUSIZIO Claudio,30 m,Calcestruzzo,Quadrata
+OSPEDALE BUFALINI,57.0 m,N 44° 7' 56",E 12° 15' 43",ZUGARELLI Luciano,30 m,Calcestruzzo,Quadrata
+OSPEDALE CIVILE DI MODENA,59.0 m,N 44° 36' 24",E 10° 52' 11",CRUSIZIO Claudio,26.5 m,Calcestruzzo,Circolare
+OSPEDALE FERRARA,10.0 m,N 44° 48' 2",E 11° 41' 59",CRUSIZIO Claudio,26 m,Calcestruzzo,Circolare
+OSPEDALE MAGGIORE DI PARMA,56.0 m,N 44° 49' 33",E 10° 17' 5",ORLANDO Riccardo,30 m,Calcestruzzo,Quadrata
+OSPEDALE MORGAGNI,28.0 m,N 44° 12' 22",E 12° 1' 10",LERARIO Giuseppe,20 m,Bitume,Quadrata
+OSPEDALE POLICLINICO DI MODENA,29.0 m,N 44° 37' 60",E 10° 56' 32",CRUSIZIO Claudio,28.00 m,Calcestruzzo,Circolare
+OSPEDALE REGGIO EMILIA 1,65.0 m,N 44° 41' 10",E 10° 37' 36",MONTERMINI Paolo,22.5 m,Bitume,Circolare
+OSPEDALE SANTA MARIA DELLE CROCI RAVENNA,2.0 m,N 44° 24' 34",E 12° 11' 13",ORLANDO Riccardo,35.00 m,Calcestruzzo,Circolare
+OSPEDALE SANT'ANNA,750.0 m,N 44° 25' 46",E 10° 24' 27",MONTERMINI Paolo,20 m,Bitume,Quadrata
+PEZZORGNA,120.0 m,N 44° 30' 23",E 11° 18' 53",ORLANDO Riccardo,20 m,Calcestruzzo,Circolare
+TGV,17.0 m,N 44° 10' 22",E 12° 16' 26",ALESSANDRI Pierluigi,22 m,Calcestruzzo,Circolare

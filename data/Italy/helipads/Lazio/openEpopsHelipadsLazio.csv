@@ -1,0 +1,42 @@
+Name,Altitude,Latitude,Longitude,Manager,BaseSize,Pavement,Shape
+Aerodrome Fonte di Papa,21.0 m,N 42° 2' 49",E 12° 34' 8",LUCCIONI Enzo,146 m,Calcestruzzo,Circolare
+AURELIA HOSPITAL,61.0 m,N 41° 53' 12",E 12° 23' 49",D'ALESANDRO Salvatore,32 m,Calcestruzzo,Circolare
+CAMPUS BIOMEDICO,53.0 m,N 41° 46' 14",E 12° 27' 58",GALONI Giorgio,24.3 m,Calcestruzzo,Circolare
+CASA DI CURA CITTA' DI APRILIA,70.0 m,N 41° 35' 13",E 12° 38' 56",ZUGARELLI Luciano,25 m,Calcestruzzo,Quadrata
+CIVITA CASTELLANA,147.0 m,N 42° 17' 55",E 12° 24' 55",MALLIA Salvatore,20.20 m,Calcestruzzo,Circolare
+Col. Pil. Bruno Colacicchi Caetani,231.0 m,N 41° 43' 26",E 13° 8' 51",Beccidelli Domenico,28 m,Calcestruzzo,Circolare
+Comune di Acquapendente,402.0 m,N 42° 44' 37",E 11° 52' 36",MALLIA Salvatore,26.00 m,Calcestruzzo,Circolare
+Comune di Formia,24.0 m,N 41° 15' 49",E 13° 39' 33",MALLIA Salvatore,26.00 m,Calcestruzzo,Circolare
+ELILAZIO,215 m,N 41° 32' 02",E 13° 22' 28.5",Mariano Moscardelli,8 m,Calcestruzzo,Circolare
+ELIGAV,300.0 m,N 42° 16' 9",E 12° 36' 39",ROTONDI Angelo,120.00 m,Erbosa,Rettangolare
+ELISUPERFICIE OSPEDALI RIUNITI ANZIO,48.0 m,N 43° 32' 45",E 11° 33' 23",CONSOLANTE Ciriaco Antonio,26.00 m,Calcestruzzo,Circolare
+ELISUPERFICIE PONTE GALERIA,41 m,N 41° 49' 30",E 12° 22' 53",VITTORIO LAZZAROTTO,22 m,Calcestruzzo,Quadrata
+FONTE DI PAPA,21 m,N 42° 3' 1.66",E 12° 34' 12.35",MANTONI Piero,25 m,Calcestruzzo,Quadrata
+Gruppo Api,33.0 m,N 41° 59' 53",E 12° 31' 8",VALLORANI Giuseppe,21.3 m,Calcestruzzo,Circolare
+IL BORGO ARICCIA,143.0 m,N 41° 39' 23",E 12° 38' 48",AMICI Giosafat,20.00 m,Erbosa,Quadrata
+LIAW - AGUFR,180.0 m,N 41° 39' 5",E 13° 17' 50",Antonino La Barbera,32 m,Bitume,Quadrata
+LUCIANO ROMANZI,506.0 m,N 41° 55' 54",E 13° 5' 9",Sante AMICI,27 m,Bitume,Circolare
+M.A.R.TE.,60 m,N 42° 5' 53",E 12° 33' 11",Giuseppe Vallorani,20.60 m,Calcestruzzo,Cicolare
+MY WAY,40.0 m,N 41° 30' 43",E 13° 50' 36",Gianmarco FIONDA,24.00 m,Erbosa,Circolare
+Ospedale Belcolle,466.0 m,N 42° 23' 31",E 12° 7' 25",MALLIA Salvatore,35 m,Calcestruzzo,Quadrata
+OSPEDALE C.T.O. GARBATELLA,37.0 m,N 41° 51' 27.3132",E 12° 29' 11.6988",ZUGARELLI Luciano,26 m,Calcestruzzo,Circolare
+OSPEDALE DI CIVITAVECCHIA,64.0 m,N 42° 5' 50.4888",E 11° 48' 34.1496",ANGELI Emanuele,22.8 m,Calcestruzzo,Quadrata
+OSPEDALE GEMELLI,118.0 m,N 41° 56' 5",E 12° 25' 51",MALLIA Salvatore,24.00 m,Calcestruzzo,Quadrata
+OSPEDALE PADRE PIO,130.0 m,N 42° 5' 56",E 12° 10' 18",ANGELI Emanuele,22 m,Calcestruzzo,Quadrata
+Ospedale San Benedetto di Alatri,392.0 m,N 41° 44' 18",E 13° 20' 2",PALMIERI Mauro,36.00 m,Calcestruzzo,Quadrata
+OSPEDALE SAN CAMILLO DE LELLIS,464.0 m,N 42° 25' 26",E 12° 54' 24",DE MARCO Sergio,30.90 m,Bitume,Quadrata
+OSPEDALE SAN CAMILLO FORLANINI,30.0 m,N 41° 52' 3",E 12° 27' 27",ANTONACCI Luigi,20 m,Calcestruzzo,Quadrata
+OSPEDALE SAN FILIPPO NERI,115.0 m,N 41° 56' 43",E 12° 24' 51",MALLIA Salvatore,26 m,Bitume,Circolare
+OSPEDALE SANDRO PERTINI,36.0 m,N 41° 55' 6",E 12° 32' 25",ZUGARELLI Luciano,20 m,Calcestruzzo,Quadrata
+OSPEDALE SANTA MARIA GORETTI,17.0 m,N 41° 27' 43",E 12° 54' 36",ZUGARELLI Luciano,26.50 m,Calcestruzzo,Circolare
+OSPEDALE SANTA SCOLASTICA,40.0 m,N 41° 30' 16",E 13° 50' 37",PALMIERI Mauro,31.6 m,Bitume,Quadrata
+OSPEDALE TOR VERGATA,70.0 m,N 41° 51' 25",E 12° 37' 41",ANGELI Emanuele,26 m,calcestruzzo,Quadrata
+OSPEDALE VILLA SAN PIETRO,66.0 m,N 41° 57' 53",E 12° 27' 11",ANGELI Emanuele,26 m,Calcestruzzo,Circolare
+P.I.T. Presidio integrato territoriale LADISPOLI,14.0 m,N 41° 58' 8",E 12° 4' 54",ANGELI Emanuele,34.00 m,Calcestruzzo,Quadrata
+RIDA AMBIENTE,53.0 m,N 41° 32' 21",E 12° 42' 29",Fabio ALTISSIMI,21.00 m,Calcestruzzo,Circolare
+Roma Nord Capena,24.0 m,N 42° 7' 13",E 12° 36' 6",GRAZIOLI Roberto,25 m,Calcestruzzo,Quadrata
+SAN GIORGIO,4.0 m,N 42° 11' 5",E 11° 44' 58",LUCCIONI Enzo,20.00 m,Calcestruzzo,Rettangolare
+SANTA LUCIA (PONZA),128.0 m,N 40° 53' 57",E 12° 56' 51",BARBANTI Marco,25.00 m,Calcestruzzo,Circolare
+SS. Trinità,357.0 m,N 41° 43' 44",E 13° 37' 55,PALMIERI Mauro,36 m,Calcestruzzo,Quadrata
+Ventotene,16.0 m,N 40° 48' 6",E 13° 25' 51",Gerardo Santomauro,35 m,Bitume,Circolare
+VILLA SANTA COLOMBA,21.0 m,N 42° 2' 36",E 12° 33' 4",PAOLANTONI Pier Luigi,26 m,Erbosa,Circolare

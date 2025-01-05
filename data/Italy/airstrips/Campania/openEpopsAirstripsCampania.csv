@@ -1,0 +1,18 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+AVFRI,AVFRIGENTO,Avellino,SkyUfita,350,41°2'42"N,15°7'23"E,Ciriaco Lo Conte,NULL
+BNBEN,BNOLIVOLA,Benevento,Avios. Olivola,800,41°10'32"N,14°44'52"E,Iannuzzi Angelo,NULL
+BNLIM,BNLIMATOLA,Benevento,Avios. Volturno Fly,700,41°9'27"N,14°22'1"E,Antonio Sbordone,130.250
+BNSAG,BNSAGATA,Benevento,FlyClub Sant'Agata,400,41°6'10"N,14°27'18"E,Michele Razzano,130.000
+CEALI,CEALIFE,Caserta,Piedimonte Matese,400,41°19'32"N,14°21'35"E,Alessandro Golini,NULL
+CECES,CESESSAURN,Caserta,Umberto Nobile,600,41°14'7"N,13°49'14"E,Giuseppe (Pino) Frattasi,NULL
+CECVO,CECVOLTURN,Caserta,Avios. Delta Club Napoli,460,41°3'55"N,13°57'45"E,Enzo de Blasio,NULL
+CECZZ,CECAIAZZO,Caserta,Rains,420,41°8'45"N,14°20'18"E,Raimondo Insero,NULL
+CEVIT,CEVITULAZI,Caserta,Avios. La Selva,500,41°9'20"N,14°12'36"E,Pietro Napolitano,130.750
+LIAU,CE_CAPUA,Caserta,Aerop. Capua,1100,41°6'55"N,14°10'41"E,Gianni Taglialatela - Gennaro Cafaro,122.500
+LIRI,SA_PONTECG,Salerno,Aerop. Salerno Pontecagnano,1395,40°37'17"N,14°54'51"E,Aer. Salerno spa / AeC,119.175
+LIRM,AM_GRAZZAN,Caserta,Aerop. MILITARE Grazzanise,2995,41°3'38"N,14°4'55"E,NULL,122.100
+LIRN,NA_CAPODIC,Napoli,Aerop. Napoli Capodichino,2630,40°53'0"N,14°17'20"E,Gesac spa / AeC,"124.350 (App) - 118.500 (Twr)"
+NAPAT,NALPATRIA,Napoli,Campo volo AirPatria Club A.S.D.,360,40°55'37"N,14°3'43"E,Aniello Patria,130.150
+SAAVS,SAALTAVILL,Salerno,Altavillafly,375,40°32'45"N,15°6'7"E,NULL,NULL
+SACAP,SACAPACCIO,Salerno,Fly Peppe,350,40°27'9"N,15°0'5"E,Antonio / Giuseppe,NULL
+SAPON,SAPONTECAG,Salerno,Avios. del Sole,420,40°37'27"N,14°50'44"E,Giovanni Cerullo,NULL

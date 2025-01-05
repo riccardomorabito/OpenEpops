@@ -1,0 +1,69 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+BOARG,BOARGELATO,Bologna,Avios. Reno Air Club,450,44°36'58"N,11°19'36"E,Giovannini Renzo,120.425
+BOBAZ,BOBAZZANO,Bologna,Le Ali della Libertà,400,44°30'54"N,11°6'0"E,Maurizio Bignami,NULL
+BOCRE,BOCREVALCO,Bologna,Creva Air Club,600,44°44'16"N,11°11'8"E,Paolo Bigiani,NULL
+BOGRA,BOGRANAROL,Bologna,Delta Culture Club,290,44°34'16"N,11°27'6"E,Tessarollo Franco,NULL
+BOIEZ,BOIMOLAZAM,Bologna,Elio Zambrini,600,44°25'56"N,11°43'53"E,Sergio Bocca,NULL
+BOIML,BOIMOLAAVU,Bologna,Amanti Volo Ultraleggero,300,44°19'35"N,11°39'33"E,Adolfo Barzaghi,NULL
+BOIMV,BOIMOLAVRA,Bologna,Avios. Vraglia,320,44°24'47"N,11°44'49"E,Tommaso Dal Pozzo,NULL
+BOMED,BOMEDICINA,Bologna,Avios. Voloclub Italiano Ultraleggeri,1000,44°30'49"N,11°35'24"E,Beppe Gallieri,NULL
+BOMOL,BOMOLINELL,Bologna,Avios. Molinella,1000,44°35'34"N,11°39'20"E,Renzo Bonora,126.950
+BOPOG,BOSPIETROC,Bologna,Ass. Sp. Phoenix,400,44°44'45"N,11°20'24"E,Sndro Mantovani,NULL
+BOSIM,BOSESTOIML,Bologna,Gli Aironi,510,44°27'48"N,11°47'16"E,Paolo Tagliavini,NULL
+BOZOP,BOZOLAPRED,Bologna,Arcobaleno,360,44°29'49"N,11°14'37"E,Marco,NULL
+FCCES,FCCESENA,Forlì-Cesena,Campo Volo Settecrociari,450,44°8'14"N,12°11'36"E,Mirco Amaducci - Maurizio Montalti,NULL
+FCMSA,FCMERCASAR,Forlì-Cesena,Campo volo Achille,450,43°59'57"N,12°6'45"E,Achille,NULL
+FCVIF,FCVILLAFRF,Forlì-Cesena,Ali Soccorso,800,44°17'28"N,12°1'34"E,Rosetti Renzo,131.000
+FEARG,FEARGENTA,Ferrara,Ali Filanti,500,44°34'56"N,11°55'23"E,Ervedo,NULL
+FEPMA,FEPORTOMAG,Ferrara,Aeroclub Il Verginese,900,44°41'11"N,11°45'34"E,Vincenzo - Alberto,NULL
+FEVGA,FEVGAFFARO,Ferrara,Avios. Valle Gaffaro,900,44°50'0"N,12°13'56"E,Telloli Sandro,NULL
+FEVIG,FEVIGARANO,Ferrara,Icaro Village,460,44°50'47"N,11°29'3"E,NULL,NULL
+LIDE,RE_REMILIA,Reggio Emilia,Aerop. di Reggio Emilia,1400,44°41'54"N,10°39'46"E,Società Aeroporto,127.150
+LIDG,RA_LUGO,Ravenna,Aerop. F. Baracca di Lugo,800,44°23'51"N,11°51'18"E,AeC,119.650
+LIDP,MO_PAVULLO,Modena,Aerop. di Pavullo,1200,44°19'18"N,10°49'55"E,AeC,122.600
+LIDR,RA_RAVENNA,Ravenna,Aerop. Ravenna,1200,44°22'0"N,12°13'24"E,AeC,123.500
+LIDU,MO_CARPI,Modena,Aerop. di Carpi,850,44°50'4"N,10°52'19"E,AeC,123.000
+LIDV,FE_AGUSCEL,Ferrara,Aerop. Aguscello,750,44°47'23"N,11°40'10"E,Marco Cavicchi,118.200
+LIKO,BOOZZANO,Bologna,Avios. Ozzano Guglielmo Zamboni,840,44°28'30"N,11°32'30"E,Gianni Zamboni,128.450
+LIMP,PR_PARMA,Parma,Aerop. di Parma,2120,44°49'15"N,10°17'42"E,SoGeAP spa / AeC,118.450
+LIMS,AM_PIACENZ,Piacenza,Aerop. MILITARE Piacenza,3000,44°54'47"N,9°43'24"E,NULL,NULL
+LIPC,AM_CERVIA,Cervia,Aerop. MILITARE Cervia,3050,44°13'27"N,12°18'26"E,NULL,NULL
+LIPE,BO_PANIGAL,Bologna,Aerop. Bologna Borgo Panigale,2800,44°31'50"N,11°17'33"E,SAb Aeroporto Marconi spa / AeC,"120.100 (App) - 120.800 (Twr)"
+LIPF,FE_FERRARA,Ferrara,Aerop. Ferrara,800/900,44°48'45"N,11°36'49"E,AeC,122.500
+LIPK,FC_FORLI',Forlì-Cesena,Aerop. di Forlì,2410,44°11'42"N,12°4'11"E,SEAF Spa,119.750
+LIPM,MO_MARZAGL,Modena,Aerop. Modena Marzaglia,800,44°38'0"N,10°49'0"E,AeC,119.550
+LIPR,RN_RIMINI,Rimini,Aerop. di Rimini,2995,44°1'15"N,12°36'44"E,Aeradria spa / AeC,119.100
+MOCGL,MOCAMPOGAL,Modena,Campogalliano,380,44°42'14"N,10°51'10"E,NULL,NULL
+MOCON,MOCONCORDI,Modena,Banda Bassotti,500,44°55'28"N,11°3'0"E,Claudio Luppi,NULL
+MOCRP,MOWILLYCOY,Modena,Willy il Coyote,400,44°46'20"N,10°50'0"E,Ass. ULM città di Carpi,NULL
+MOGAG,MOGAGGIOIP,Modena,Club Deltasport,385,44°39'10"N,10°59'30"E,Andrea Zagni,NULL
+MOSAS,MOSASSUOLO,Modena,Avios. Club Aeron. Nucleo Prot. Civ. Sassuolo,1000,44°34'18"N,10°46'48"E,Paolo Gambuli,124.000
+MOSCO,MOSCORTICH,Modena,Scortichino,500,44°51'28"N,11°21'11"E,Ristorante,NULL  
+MOSDM,MOSDALMAZI,Modena,San Dalmazio,250,44°24'45"N,10°50'37"E,NULL,NULL
+MOSFP,MOSFELICEP,Modena,Campo volo S.Felice,380,44°49'48"N,11°7'28"E,Dallolio Luciano,NULL
+PCAGA,PCLMERLINE,Piacenza,Le Merline,380,44°58'19"N,9°28'48"E,Pierluigi Magistrali - Roberto Villa,NULL
+PCALS,PCALSENO,Piacenza,Avios. Conte Guido Guidi,800,44°52'8"N,9°56'17"E,Monica Bonetti,NULL
+PCBOR,PCBORGHETT,Piacenza,Alilafer,300,45°2'0"N,9°47'30"E,Claudio Carini,NULL
+PCGRA,PCGRAGNANO,Piacenza,Avios. Aeroclub Piacenza,800,45°0'0"N,9°35'0"E,NULL,123.550
+PCPIA,PCALIPIACE,Piacenza,Ali Piacenza,600,45°1'50"N,9°36'20"E,Giancarlo Viliani,NULL  
+PRALB,PRALBARETO,Parma,Albareto - Borgotaro,400,44°27'48"N,9°43'2"E,NULL,NULL
+PRBUS,PRBUSSETO,Parma,La Torretta,300,44°59'36"N,10°3'31"E,G.F. Arduini - S.Castellano,NULL
+PRCAN,PRCANNETOL,Parma,Aeroparco Pomì - Obiettivo Volare Aeroclub,500-400,44°53'15"N,10°9'31"E,Mario,NULL
+PRFEL,PRFELINO,Parma,Aviodelta Felino,400,44°42'16"N,10°14'53"E,Luigi,NULL
+PRFON,PRFONTANEL,Parma,San Benedetto,400,44°52'52"N,10°13'2"E,Mauro Ferri,NULL
+PRPOL,PRPOLESINE,Parma,Volareunpo,240,45°1'0"N,10°5'53"E,Carlo Caraffini,130.000
+PRRUB,PRRUBBIANO,Parma,Avios. Rubbiano,700,44°40'10"N,10°3'33"E,Giampaolo Galuzzi,NULL
+PRSAL,PRSALSOMBO,Parma,Angelo Borsi,200,44°48'28"N,9°56'17"E,Angelo Borsi,NULL
+PRSIS,PRSISSA,Parma,campo volo Sissa,500,44°58'18"N,10°17'42"E,NULL,NULL
+PRSMT,PRSALSOMCA,Parma,Campore,400,44°49'40"N,10°0'36"E,Comini Daniele,NULL
+PRSOR,PRSORAGNA,Parma,Avio Club Carzeto,400,44°57'36"N,10°11'2"E,Sergio Castellano,NULL
+RABEL,RABELRICET,Ravenna,Avio Club LYRA 34,600,44°30'1"N,11°56'40"E,Valmero Fabbri - Leo Venieri,130.000
+RACLA,RALIDOCLAS,Ravenna,Avios. Ali di Classe,700,44°19'18"N,12°18'30"E,Gianfranco Cortesi,NULL
+RACON,RACONSELIC,Ravenna,Delta Club Conselice,700,44°32'29"N,11°47'36"E,NULL,NULL
+RASAF,RAFAENZA,Ravenna,Aerlight Faenza,550,44°20'8"N,11°55'36"E,Staffa Luca,130.000
+RECAS,RECASTELAZ,Reggio Emilia,Avios. Castellazzo,600,44°41'0"N,10°44'23"E,NULL,120.225 
+RECAV,RECAVRIAGO,Reggio Emilia,Top Gun School,260,44°41'0"N,10°34'7"E,NULL,NULL
+REPOT,REPOVIGLTA,Reggio Emilia,Avios. Tabularia,400,44°50'57"N,10°33'54"E,Emiliio Chiesi,NULL
+REPOV,REPOVIGLSS,Reggio Emilia,Poviglio - S.Sisto,300,44°50'50"N,10°30'20"E,Fabio Dosi,130.300
+RNSAR,RNSARCANGL,Rimini,Avios. Santarcangelo di Romagna,500,44°1'51"N,12°25'38"E,Daniele Ferrini,130.000
+RSMTOR,SMTORACCIA,San Marino,Avios. Torraccia,650,43°56'58"N,12°30'39"E,NULL,118.075

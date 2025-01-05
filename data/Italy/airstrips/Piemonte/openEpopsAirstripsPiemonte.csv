@@ -1,0 +1,59 @@
+ICAO,IDENT,Province,Name,Altitude,Latitude,Longitude,Owner,Radio
+ALACQ,ALACQUITER,Alessandria,Avios. Acqui Terme,500,44°40'35"N,8°30'10"E,Alfio Fontana (gestore),NULL
+ALASS,ALPIOVERA,Alessandria,Avios. Volo ULM Alessandria,600,44°56'9"N,8°45'0"E,Fanelli Franco,NULL
+ALFVB,ALFRANCAVB,Alessandria,Avios. di Francavilla,800,44°43'35"N,8°43'45"E,Dr. Ghiglione,NULL
+ALTOR,ALTORTOPLO,Alessandria,Campo di volo Ploia,450,44°53'3"N,8°46'51"E,Torti Maurizio,NULL
+ALTRT,ALTORTORIC,Alessandria,Avios. Cascina Riccarda,650,44°56'20"N,8°52'5"E,Claudi Albano,122.850
+ATBOG,ATBOGLIETT,Asti,Avios. Boglietto,800,44°45'29"N,8°11'14"E,Dino Rizzoglio,NULL
+ATCAL,ATCASTAGNL,Asti,Campo volo "Il Laghetto",450,44°46'38"N,8°7'46"E,Penna Walter,NULL
+ATCAN,ATCANTARAN,Asti,Campo volo Val Triversa,500,44°54'44"N,8°2'5"E,Roberto Ferrari,NULL
+ATCAS,ATCDANNONE,Asti,Avios. Astigiana,500,44°53'35"N,8°21'34"E,Enrico Tessitore,NULL
+ATMON,ATMONTIGLI,Asti,CAB Club,700,45°3'54"N,8°4'48"E,Alessio Attilio,NULL
+ATVIL,ATVILLANOV,Asti,Villanova,400,44°57'39"N,7°55'37"E,NULL,NULL
+BICRR,BICERRETOC,Biella,Cerreto Castello,200,45°32'53"N,8°9'40"E,Mauro Navone,NULL
+BIROV,BIROVASEND,Biella,Rovasenda 2000,280,45°32'40"N,8°16'45"E,Tomasoni Silvia,NULL
+CNBAL,CNONDALBA,Cuneo,Ondalba,480,44°46'30"N,7°52'54"E,Franco Allasia,NULL
+CNBEN,CNBENEVAGI,Cuneo,V. Country Fly,420,44°30'11"N,7°49'18"E,Renato Revello,NULL
+CNCST,CNCASTELST,Cuneo,Bosio Guido Castelletto Stura,500,44°26'0"N,7°37'54"E,Guido Bosio,NULL
+CNPEZ,CNPEZZOLO,Cuneo,Avios. Ca' Lunga,450,44°31'27"N,8°11'0"E,Brandone,119.550
+CNPIA,CNPIANFEI,Cuneo,Avios. Alpi Marittime,450,44°23'30"N,7°43'36"E,Tony Dalmasso,NULL
+CNRAC,CNRACCONIG,Cuneo,Campo volo Sant'Elia,650,44°44'22"N,7°42'38"E,Giovanni Castagneris,NULL
+LILA,AL_ALESSAN,Alessandria,Aerop. di Alessandria,640,44°55'28"N,8°37'32"E,AeC,126.900
+LILE,BI_CERRION,Biella,Aerop. Biella Cerrione,1320,45°29'58"N,8°6'8"E,SACE spa / AeC,123.050
+LILF,ATCNUOVODB,Asti,Avios. Castelnuovo Don Bosco,600,45°1'28"N,7°57'59"E,Francesca Razzano,NULL
+LILI,VC_VERCELL,Vercelli,Aerop. di Vercelli,700,45°18'40"N,8°25'3"E,NULL,118.850
+LILM,AL_CASALEM,Alessandria,Aerop. Casale Monferrato,880,45°6'38"N,8°27'23"E,AeC Casalese,118.350
+LIMA,TO_AERITAL,Torino,Aerop. Torino Aeritalia,750-1050,45°5'7"N,7°36'15"E,AeC,119.800
+LIMF,TO_CASELLE,Torino,Aerop. Torino Caselle,3300,45°12'4"N,7°39'0"E,SAGAT spa,118.500
+LIMN,AM_CAMERI,Novara,Aerop. MILITARE Cameri,2990,45°31'47"N,8°40'9"E,NULL,NULL
+LIMR,AL_NOVILIG,Alessandria,Aerop. Novi Ligure,1050,44°46'46"N,8°47'12"E,AeC Volovelistico - Fulvio Padova,122.500
+LIMZ,CN_VALDIGI,Cuneo,Aerop. Cuneo Levaldigi,2100,44°32'44"N,7°37'15"E,GEAC spa / AeC,119.550
+LIVV,TOVISCHE,Torino,Avios. Moncucco,670,45°20'50"N,7°55'17"E,Brancaleoni Riccardo,133.000
+NOBRT,NOBOTICINO,Novara,Avios. Il Picchio,400,45°42'26"N,8°35'30"E,Simone Sacchelli,NULL
+NOCAS,NOCASALEGG,Novara,Avios. di Casaleggio,800/400,45°29'44"N,8°31'31"E,Sig. Previde Prato,NULL
+NOSOZ,NOSOZZAGO,Novara,Le Streghe,400,45°23'44"N,8°42'23"E,Enrico Cortini,NULL
+NOVES,NOVESPOLAT,Novara,Gianni Cerutti Fly,400,45°20'59"N,8°38'54"E,Gianluigi Polloni,NULL
+NOVPA,NOVAPRIODA,Novara,Volopuro,250,45°36'23"N,8°34'4"E,NULL,NULL
+TOALB,TOALBIANOI,Torino,Flying Tigers,350,45°26'30"N,7°56'10"E,Luciano Musetti,NULL
+TOBUS,TOBUSANO,Torino,Avios. Pegasus 2000,450,45°18'35"N,7°39'55"E,Vittorio Picca Piccone,NULL
+TOCAL,TOCALUSO,Torino,Carolina,600,45°15'4"N,7°53'57"E,Elio Negro,NULL
+TOCAS,TOCASTAGNO,Torino,Lelika,470,44°52'58"N,7°33'42"E,Filippa Michele,NULL
+TOCAV,TOCAVOUR,Torino,S.Michele di Cavour,400,44°48'15"N,7°22'45"E,NULL,NULL
+TOCTM,TOCASTMONT,Torino,Club Volo Ultraleggeri del Canavese,370,45°21'30"N,7°43'11"E,NULL,NULL
+TOCUM,TOCUMIANA,Torino,Avios. Cumiana,450,44°56'12"N,7°25'43"E,Roberto Lomonaco,NULL
+TOGAR,TOGARZIGLI,Torino,Avios. Merlo Romano,500,44°50'30"N,7°22'32"E,NULL,NULL
+TOMAZ,TOMAZZE,Torino,Avios. Il Falco,660,45°16'10"N,7°57'7"E,NULL,NULL
+TOMTD,TOMONTALDO,Torino,Avios. Avioclub Montalto Dora,620,45°29'10"N,7°50'30"E,Pavani Eliano,118.450
+TOPIA,TOPIANEZZA,Torino,Prealpi-Musinè,600,45°7'26"N,7°31'20"E,Vittorio Picca Piccone,NULL
+TOPIN,TOBURIASCO,Torino,Pinerolo,400,44°51'50"N,7°24'26"E,Franco Bramante,NULL
+TORIV,TORIVOLI,Torino,Rivoli,300,45°2'47"N,7°32'17"E,Walter Moraglio,NULL
+TOVAI,TOVAIE,Torino,Campo volo Valsusa,350,45°6'45"N,7°17'14"E,Antonio o Giuseppe Atzeni,NULL
+TOVER,TOVERRUASA,Torino,Campo Volo Angela e Sara,620,45°9'50"N,8°7'24"E,Roberto / Marco / Stefano,NULL
+TOVIG,TOVIGONE,Torino,Avios. Piper Dancing,300,44°50'0"N,7°32'0"E,Sergio Dallacroce,NULL
+TOVIR,TOVIRLE,Torino,Club Pellicano - Virle,600,44°50'50"N,7°33'44"E,Vincenzo Pochettino,130.600
+VBMAS,VBMASERA,Verbania,Avios. di Masera,700,46°8'0"N,8°18'20"E,Piergiovanni Bracali / Fausto Darioli,NULL
+VCCAR,VCCARISIO,Vercelli,Campo Volo VOLOPURO A.S.D.,460,45°26'48"N,8°11'29"E,Fabrizio Bedana,NULL
+VCGAT,VCGATTINAR,Vercelli,Avios. Gattinara,600,45°36'25"N,8°19'28"E,NULL,NULL
+VCMEG,VCMEGGIANA,Vercelli,Avios. Rif. di Meggiana,215,45°44'45"N,8°2'26"E,Marc Ingegno - Marchini Alberto,NULL
+VCMON,VCMONCRIVE,Vercelli,Lucchina Fly Club,300,45°19'25"N,8°0'3"E,Giovanni Succio,NULL
+VCVAR,VCVARALLO,Vercelli,Roccapietra - Marc Ingegno,600,45°46'40"N,8°16'6"E,Marc Ingegno,NULL
